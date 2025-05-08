@@ -1,7 +1,24 @@
-2019 
-Web of Science
+<div align="center">
+  <!-- <h1><b> BasicTS </b></h1> -->
+  <!-- <h2><b> BasicTS </b></h2> -->
+  <h2><b> Machine Learning-based Trust Management for CAV </b></h2>
+</div>
 
-TMS-IoT-nonML（43）
+```
+@article{Xu2024ML_TMS,
+	  title={Enhancing Trust Management System for Connected and Automated Vehicles Using Machine Learning Methods: A Survey},
+  author={ },
+  journal={IEEE Transactions on Transactions on Intelligent Transportation System},
+  year={}
+}
+
+```
+## 🔭 Table of Contents
+
+
+## 📚 Collection of Papers
+
+### TMS-IoT-nonML（43）
 trust management (Topic) – 3,094 – All Databases
 
 [1]	Bendiab G, Shiaeles S, Boucherkha S, et al. FCMDT: A novel fuzzy cognitive maps dynamic trust model for cloud federated identity management[J]. computers & security, 2019, 86: 270-290.(cite 42)
@@ -47,40 +64,39 @@ trust management (Topic) – 3,094 – All Databases
 [41]	Kurdi H, Alfaries A, Al-Anazi A, et al. A lightweight trust management algorithm based on subjective logic for interconnected cloud computing environments[J]. The Journal of Supercomputing, 2019, 75: 3534-3554.(cite 65)
 [42]	Wang T, Qiu L, Sangaiah A K, et al. Energy-efficient and trustworthy data collection protocol based on mobile fog computing in Internet of Things[J]. IEEE Transactions on Industrial Informatics, 2019, 16(5): 3531-3539.(cite 119)
 [43]	Alshehri M D, Hussain F K. A fuzzy security protocol for trust management in the internet of things (Fuzzy-IoT)[J]. Computing, 2019, 101(7): 791-818.
+### TMS-IoT-ML（4）
+- 1. Guo S, Dai Y, Xu S, et al. Trusted cloud-edge network resource management: DRL-driven service function chain orchestration for IoT[J]. IEEE Internet of Things Journal, 2019, 7(7): 6010-6022.(cite 108)
+- U. Jayasinghe, G. M. Lee, T. -W. Um and Q. Shi, "Machine Learning Based Trust Computational Model for IoT Services," in IEEE Transactions on Sustainable Computing, vol. 4, no. 1, pp. 39-52, 1 Jan.-March 2019 (cite 145)
+- Detection of multiple-mix-attack malicious nodes using perceptron-based trust in IoT networks（ML, cite57）
+- Incentive Mechanism for Reliable Federated Learning: A Joint Optimization Approach to Combining Reputation and Contract Theory(FL)
 
-TMS-IoT-ML（4）
-[1]	Guo S, Dai Y, Xu S, et al. Trusted cloud-edge network resource management: DRL-driven service function chain orchestration for IoT[J]. IEEE Internet of Things Journal, 2019, 7(7): 6010-6022.(cite 108)
-[2]	U. Jayasinghe, G. M. Lee, T. -W. Um and Q. Shi, "Machine Learning Based Trust Computational Model for IoT Services," in IEEE Transactions on Sustainable Computing, vol. 4, no. 1, pp. 39-52, 1 Jan.-March 2019 (cite 145)
-[3]	Detection of multiple-mix-attack malicious nodes using perceptron-based trust in IoT networks（ML, cite57）
-[4]	Incentive Mechanism for Reliable Federated Learning: A Joint Optimization Approach to Combining Reputation and Contract Theory(信任用于FL)
-
-TMS-CAV-nonML（22）
-
-[1]	He Y, Yu F R, Wei Z, et al. Trust management for secure cognitive radio vehicular ad hoc networks[J]. Ad Hoc Networks, 2019, 86: 154-165. (cite 42)（cite71）
-[2]	J. Feng, N. Liu, J. Cao, Y. Zhang and G. Lu, "Securing Traffic-Related Messages Exchange Against Inside-and-Outside Collusive Attack in Vehicular Networks," in IEEE Internet of Things Journal, vol. 6, no. 6, pp. 9979-9992, Dec. 2019.(cite 16)
-[3]	J. Kang et al., "Blockchain for Secure and Efficient Data Sharing in Vehicular Edge Computing and Networks," in IEEE Internet of Things Journal, vol. 6, no. 3, pp. 4660-4670, June 2019, doi: 10.1109/JIOT.2018.2875542. (cite 624)
-[4]	H. Xia, S. -s. Zhang, Y. Li, Z. -k. Pan, X. Peng and X. -z. Cheng, "An Attack-Resistant Trust Inference Model for Securing Routing in Vehicular Ad Hoc Networks," in IEEE Transactions on Vehicular Technology, vol. 68, no. 7, pp. 7108-7120, July 2019,(cite 80)
-[5]	Xie L, Ding Y, Yang H, et al. Blockchain-based secure and trustworthy Internet of Things in SDN-enabled 5G-VANETs[J]. Ieee Access, 2019, 7: 56656-56666.(cite 309)
-[6]	Sohail M, Wang L, Ali R, et al. Efficient data handover and intelligent information assessment in software‐defined vehicular social networks[J]. IET Intelligent Transport Systems, 2019, 13(12): 1814-1821.（cite 10）
-[7]	Boeira F, Asplund M, Barcellos M. Decentralized proof of location in vehicular ad hoc networks[J]. Computer Communications, 2019, 147: 98-110.（cite 13）
-[8]	Hasrouny H, Samhat A E, Bassil C, et al. Trust model for secure group leader-based communications in VANET[J]. Wireless Networks, 2019, 25: 4639-4661.(cite 82)
-[9]	Khan A S, Balan K, Javed Y, et al. Secure trust-based blockchain architecture to prevent attacks in VANET[J]. Sensors, 2019, 19(22): 4954.(cite 122)
-[10]	Paranjothi A, Khan M S, Zeadally S, et al. GSTR: Secure multi-hop message dissemination in connected vehicles using social trust model[J]. Internet of Things, 2019, 7: 100071.（cite 13/cite 21）
-[11]	Cui J, Zhang X, Zhong H, et al. RSMA: Reputation system-based lightweight message authentication framework and protocol for 5G-enabled vehicular networks[J]. IEEE Internet of Things Journal, 2019, 6(4): 6417-6428.(cite 106)
-[12]	N. Fan and C. Q. Wu, “On trust models for communication security in vehicular ad-hoc networks,” Ad Hoc Networks, vol. 90, p. 101740, 2019.
-[13]	Z. Tian, X. Gao, S. Su, J. Qiu, X. Du, and M. Guizani, “Evaluating reputation management schemes of internet of vehicles based on evolutionary game theory,” IEEE Trans. Veh. Technol., vol. 68, no. 6, pp. 5971–5980, 2019.
-[14]	Hasrouny H, Samhat A E, Bassil C, et al. Misbehavior detection and efficient revocation within VANET[J]. Journal of information security and applications, 2019, 46: 193-209.(cite 41)
-[15]	Sun G, Sun S, Sun J, et al. Security and privacy preservation in fog-based crowd sensing on the internet of vehicles[J]. Journal of Network and Computer Applications, 2019, 134: 89-99.(cite 87)
-[16]	Arshad M, Ullah Z, Khalid M, et al. Beacon trust management system and fake data detection in vehicular ad‐hoc networks[J]. IET Intelligent Transport Systems, 2019, 13(5): 780-788.（cite 47）
-[17]	Sohail M, Wang L, Jiang S, et al. Multi‐hop interpersonal trust assessment in vehicular ad‐hoc networks using three‐valued subjective logic[J]. IET Information Security, 2019, 13(3): 223-230.(cite 25)
-[18]	Xiao Y, Liu Y. BayesTrust and VehicleRank: Constructing an implicit Web of trust in VANET[J]. IEEE Transactions on Vehicular Technology, 2019, 68(3): 2850-2864.
-[19]	Chai H, Leng S, Zhang K, et al. Proof-of-reputation based-consortium blockchain for trust resource sharing in internet of vehicles[J]. IEEE Access, 2019, 7: 175744-175757.
-[20]	T. Cheng, G. Liu, Q. Yang, and J. Sun, “Trust assessment in vehicular social network based on three-valued subjective logic,” IEEE Trans. Multimedia, vol. 21, no. 3, pp. 652–663, 2019.
-[21]	Yang Y T, Chou L D, Tseng C W, et al. Blockchain-based traffic event validation and trust verification for VANETs[J]. Ieee Access, 2019, 7: 30868-30877.（cite 200）
-[22]	Wan J, Gu X, Wang J, et al. A trust scheme based on vehicles reports of events in VANETs[J]. Wireless Personal Communications, 2019, 105: 121-143.（cite 12）
-
-TMS-CAV-ML(1)
-（trust management，CAV，machine learning）
-[1]	Z. Yang, K. Yang, L. Lei, K. Zheng and V. C. M. Leung, "Blockchain-Based Decentralized Trust Management in Vehicular Networks," in IEEE Internet of Things Journal, vol. 6, no. 2, pp. 1495-1505, April 2019, (cite 673)
+### TMS-CAV-nonML（22）
+- 1. He Y, Yu F R, Wei Z, et al. Trust management for secure cognitive radio vehicular ad hoc networks[J]. Ad Hoc Networks, 2019, 86: 154-165. (cite 42)（cite71）
+- J. Feng, N. Liu, J. Cao, Y. Zhang and G. Lu, "Securing Traffic-Related Messages Exchange Against Inside-and-Outside Collusive Attack in Vehicular Networks," in IEEE Internet of Things Journal, vol. 6, no. 6, pp. 9979-9992, Dec. 2019.(cite 16)
+- J. Kang et al., "Blockchain for Secure and Efficient Data Sharing in Vehicular Edge Computing and Networks," in IEEE Internet of Things Journal, vol. 6, no. 3, pp. 4660-4670, June 2019, doi: 10.1109/JIOT.2018.2875542. (cite 624)
+- H. Xia, S. -s. Zhang, Y. Li, Z. -k. Pan, X. Peng and X. -z. Cheng, "An Attack-Resistant Trust Inference Model for Securing Routing in Vehicular Ad Hoc Networks," in IEEE Transactions on Vehicular Technology, vol. 68, no. 7, pp. 7108-7120, July 2019,(cite 80)
+- Xie L, Ding Y, Yang H, et al. Blockchain-based secure and trustworthy Internet of Things in SDN-enabled 5G-VANETs[J]. Ieee Access, 2019, 7: 56656-56666.(cite 309)
+- Sohail M, Wang L, Ali R, et al. Efficient data handover and intelligent information assessment in software‐defined vehicular social networks[J]. IET Intelligent Transport Systems, 2019, 13(12): 1814-1821.（cite 10）
+- Boeira F, Asplund M, Barcellos M. Decentralized proof of location in vehicular ad hoc networks[J]. Computer Communications, 2019, 147: 98-110.（cite 13）
+- Hasrouny H, Samhat A E, Bassil C, et al. Trust model for secure group leader-based communications in VANET[J]. Wireless Networks, 2019, 25: 4639-4661.(cite 82)
+- Khan A S, Balan K, Javed Y, et al. Secure trust-based blockchain architecture to prevent attacks in VANET[J]. Sensors, 2019, 19(22): 4954.(cite 122)
+- Paranjothi A, Khan M S, Zeadally S, et al. GSTR: Secure multi-hop message dissemination in connected vehicles using social trust model[J]. Internet of Things, 2019, 7: 100071.（cite 13/cite 21）
+- Cui J, Zhang X, Zhong H, et al. RSMA: Reputation system-based lightweight message authentication framework and protocol for 5G-enabled vehicular networks[J]. IEEE Internet of Things Journal, 2019, 6(4): 6417-6428.(cite 106)
+- N. Fan and C. Q. Wu, “On trust models for communication security in vehicular ad-hoc networks,” Ad Hoc Networks, vol. 90, p. 101740, 2019.
+- Z. Tian, X. Gao, S. Su, J. Qiu, X. Du, and M. Guizani, “Evaluating reputation management schemes of internet of vehicles based on evolutionary game theory,” IEEE Trans. Veh. Technol., vol. 68, no. 6, pp. 5971–5980, 2019.
+- Hasrouny H, Samhat A E, Bassil C, et al. Misbehavior detection and efficient revocation within VANET[J]. Journal of information security and applications, 2019, 46: 193-209.(cite 41)
+- Sun G, Sun S, Sun J, et al. Security and privacy preservation in fog-based crowd sensing on the internet of vehicles[J]. Journal of Network and Computer Applications, 2019, 134: 89-99.(cite 87)
+- Arshad M, Ullah Z, Khalid M, et al. Beacon trust management system and fake data detection in vehicular ad‐hoc networks[J]. IET Intelligent Transport Systems, 2019, 13(5): 780-788.（cite 47）
+- Sohail M, Wang L, Jiang S, et al. Multi‐hop interpersonal trust assessment in vehicular ad‐hoc networks using three‐valued subjective logic[J]. IET Information Security, 2019, 13(3): 223-230.(cite 25)
+- Xiao Y, Liu Y. BayesTrust and VehicleRank: Constructing an implicit Web of trust in VANET[J]. IEEE Transactions on Vehicular Technology, 2019, 68(3): 2850-2864.
+- Chai H, Leng S, Zhang K, et al. Proof-of-reputation based-consortium blockchain for trust resource sharing in internet of vehicles[J]. IEEE Access, 2019, 7: 175744-175757.
+- T. Cheng, G. Liu, Q. Yang, and J. Sun, “Trust assessment in vehicular social network based on three-valued subjective logic,” IEEE Trans. Multimedia, vol. 21, no. 3, pp. 652–663, 2019.
+- Yang Y T, Chou L D, Tseng C W, et al. Blockchain-based traffic event validation and trust verification for VANETs[J]. Ieee Access, 2019, 7: 30868-30877.（cite 200）
+- Wan J, Gu X, Wang J, et al. A trust scheme based on vehicles reports of events in VANETs[J]. Wireless Personal Communications, 2019, 105: 121-143.（cite 12）
 
 
+
+###   TMS-CAV-ML 
+Keywords trust management，CAV，machine learning）
+- Z. Yang, K. Yang, L. Lei, K. Zheng and V. C. M. Leung, "Blockchain-Based Decentralized Trust Management in Vehicular Networks," in IEEE Internet of Things Journal, vol. 6, no. 2, pp. 1495-1505, April 2019, (cite 673)
+- 
