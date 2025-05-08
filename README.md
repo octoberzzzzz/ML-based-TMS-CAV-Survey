@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <h1><b> BasicTS </b></h1> -->
   <!-- <h2><b> BasicTS </b></h2> -->
-  <h2><b> Machine Learning-based Trust Management for CAV </b></h2>
+  <h2><b> Machine Learning-based Trust Management System for CAV </b></h2>
 </div>
 
 
