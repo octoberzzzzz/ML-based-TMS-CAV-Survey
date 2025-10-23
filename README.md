@@ -57,15 +57,18 @@ Currently, the content follows the chapter order and references of the paper; a 
 - R. Sedar, C. Kalalas, F. Vázquez-Gallego, L. Alonso and J. Alonso-Zarate, "A Comprehensive Survey of V2X Cybersecurity Mechanisms and Future Research Paths," in _IEEE Open Journal of the Communications Society_, vol. 4, pp. 325-391, 2023.[[paper]](https://ieeexplore.ieee.org/document/10026338))（cite 95）
 
 ### Surveys on "TMS for IoT including trust" 
-- G. Bendiab, A. Hameurlaine, G. Germanos, N. Kolokotronis and S. Shiaeles, "Autonomous Vehicles Security: Challenges and Solutions Using Blockchain and Artificial Intelligence," in _IEEE Transactions on Intelligent Transportation Systems_, vol. 24, no. 4, pp. 3614-3637, April 2023.
-(cite 119)
+- G. Bendiab, A. Hameurlaine, G. Germanos, N. Kolokotronis and S. Shiaeles, "Autonomous Vehicles Security: Challenges and Solutions Using Blockchain and Artificial Intelligence," in _IEEE Transactions on Intelligent Transportation Systems_, vol. 24, no. 4, pp. 3614-3637, April 2023. [[paper]](https://ieeexplore.ieee.org/document/10023964))) (cite 119)
 - R. Sedar, C. Kalalas, F. Vazquez-Gallego, L. Alonso, and ´ J. Alonso-Zarate, “A comprehensive survey of v2x cybersecurity mechanisms and future research paths,” IEEE open j. Commun. Soc., vol. 4, pp. 325–391, 2023.
-
--  Y. Liu, J. Wang, Z. Yan, Z. Wan, and R. Jantti, “A survey ¨ on blockchain-based trust management for internet of things,” IEEE Internet Things J., vol. 10, no. 7, pp. 5898–5922, 2023.
+[[paper]](https://ieeexplore.ieee.org/document/10026338)
+-  Y. Liu, J. Wang, Z. Yan, Z. Wan, and R. Jantti, “A survey on blockchain-based trust management for internet of things,” IEEE Internet Things J., vol. 10, no. 7, pp. 5898–5922, 2023.
 - S. Sagar, A. Mahmood, Q. Z. Sheng, W. E. Zhang, Y. Zhang, and J. K. Pabani, “Understanding the trustworthiness management in the social internet of things: a survey,” Computer Networks, p. 110611, 2024.
+  [[paper]](https://www.sciencedirect.com/science/article/pii/S1389128624004432)
 - L. Wei, Y. Yang, J. Wu, C. Long, and B. Li, “Trust management for internet of things: A comprehensive study,” IEEE Internet Things J., vol. 9, no. 10, pp. 7664–7679, 2022.
 - J. Wang, Z. Yan, H. Wang, T. Li, and W. Pedrycz, “A survey on trust models in heterogeneous networks,” IEEE Commun. Surveys Tuts., vol. 24, no. 4, pp. 2127–2162, 2022.
 - J. Wang, X. Jing, Z. Yan, Y. Fu, W. Pedrycz, and L. T. Yang, “A survey on trust evaluation based on machine learning,” ACM Comput. Surv, vol. 53, no. 5, pp. 1–36, 2020.
+  2025-new
+- T. Luo, J. Wang, Z. Yan and E. Gelenbe, "Graph Neural Networks for Trust Evaluation: Criteria, State-of-the-Art, and Future Directions," in IEEE Network, vol. 39, no. 4, pp. 37-46, July 2025.[[paper]](https://ieeexplore.ieee.org/document/10023964)
+- 
 ### Surveys on "TMS for CAV"
 - R. Hussain, J. Lee, and S. Zeadally, “Trust in vanet: A survey of current solutions and future research opportunities,” IEEE Trans. Intell. Transp. Syst., vol. 22, no. 5, pp. 2553–2571, 2021.
 - A. Hbaieb, S. Ayed, and L. Chaari, “A survey of trust management in the internet of vehicles,” Computer Networks, vol. 203, p. 108558, 2022.
@@ -265,3 +268,67 @@ Currently, the content follows the chapter order and references of the paper; a 
 - R. Magdich, H. Jemal, and M. B. Ayed, “A resilient trust management framework towards trust related attacks in the social internet of things,” Comput. Commun., vol. 191, pp. 92–107, 2022.
 - C. Marche and M. Nitti, “Trust-related attacks and their detection: A trust management model for the social iot,” IEEE Trans. Comput. Netw. Serv., vol. 18, no. 3, pp. 3297–3308, 2021.
 - Z. Zhao, S. Zhao, F. Lv, S. Si, H. Zhu, and L. Sun, “Rietd: A reputation incentive scheme facilitates personalized edge tampering detection,” IEEE Internet Things J., vol. 11, no. 8, pp. 14 771–14 788, 2024.
+
+  ## 📚 2025-TMS
+  ### TMS-IoT-nonML
+[1]	A multi-dimensional trust attestation solution in 5G-IoT
+[2]	Burange A W, Deshmukh V M, Thakare Y A, et al. Safeguarding the Internet of Things: Elevating IoT routing security through trust management excellence[J]. Computer Standards & Interfaces, 2025, 91: 103873.(cite 3)
+[3]	B. Mao et al., "A Blockchain-enabled Cold Start Aggregation Scheme for Federated Reinforcement Learning-based Task Offloading in Zero Trust LEO Satellite Networks," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2025.3560003. 
+[4]	T. Gai, F. Chiclana, W. Jin, M. Zhou and J. Wu, "A transformation method of non-cooperative to cooperative behavior by trust propagation in social network group decision making," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2025.3557904.
+[5]	W. Chen, W. Yang, M. Xiao, L. Xue and S. Wang, "LBDT: A Lightweight Blockchain-Based Data Trading Scheme in Internet of Vehicles Using Proof-of-Reputation," in IEEE Transactions on Mobile Computing, vol. 24, no. 4, pp. 2800-2816, April 2025.
+[6]	J. Wang, Z. Li, H. Liu, T. Qiu and H. Luo, "A Trust-Based Computation Offloading Framework in Mobile Cloud-Edge Computing Networks," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3530480.（卸载）
+[7]	[1] R. K. Gudivaka, D. K. R. Basani, S. H. Grandhi, B. R. Gudivaka, R. L. Gudivaka, and M. M. Kamruzzaman, "A multilevel decentralized trust management-aware OS-GRU and S-fuzzy-based dynamic task offloading in block-chain enabled Edge-Cloud," Sustainable Computing: Informatics and Systems, vol. 46, 2025, p. 101111
+[8]	I. U. Din, K. H. Khan, A. Almogren and M. Guizani, "Machine Learning for Trust in Internet of Vehicles and Privacy in Distributed Edge Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3547595. （非机器学习）
+[9]	T. Gai, F. Chiclana, W. Jin, M. Zhou and J. Wu, "A transformation method of non-cooperative to cooperative behavior by trust propagation in social network group decision making," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2025.3557904.
+[10]	J. Yin, Y. Xiao, J. Feng, M. Yang, Q. Pei and X. Yi, "DidTrust: Privacy-preserving Trust Management for Decentralized Identity," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2024.3524760. 
+[11]	M. Huang, Z. Li, A. Liu, X. Zhang, Z. Yang and M. Yang, "A Proactive Trust Evaluation System for Secure Data Collection Based on Sequence Extraction," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 2, pp. 997-1010, March-April 2025,
+[12]	Higashi S, Ampririt P, Qafzezi E, et al. A Fuzzy-based System for assessment of relational trust in IoT and social networks[J]. Internet of Things, 2025: 101528.（无ML）
+[13]	Q. Zhang, X. Xue and J. Yang, "Blockchain-Enabled Trustworthy Healthcare Data Sharing Mechanism for Reliable 6G-IoT Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3564782. 
+[14]	H. Yang, L. Guo, T. Wang and C. Lv, "A Novel Lightweight Dynamic Trust Evaluation Model for Edge Computing," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3570290.
+[15]	J. Fan, D. Mu, B. Luo and Y. Yu, "Privacy Protection Distributed Spatial Cloaking Scheme Based on Certified Reputation in Industrial Internet of Things," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3564960.
+  ### TMS-IoT-ML
+[1]	Y. He, G. Han, Y. Hou and C. Lin, "Environment-Tolerant Trust Opportunity Routing Based on Reinforcement Learning for Internet of Underwater Things," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3540774. 
+[2]	E. Moeinaddini, E. Nazemi, and A. Shahraki, "A new approach on self-adaptive trust management for social Internet of Things," Computer Networks, vol. 263, p. 111187, 2025.
+[3]	M. Deng et al., "Lightweight Trust Management Scheme Based on Blockchain in Resource-Constrained Intelligent IoT Systems," in IEEE Internet of Things Journal, vol. 11, no. 15, pp. 25706-25719, 1 Aug.1, 2024, doi: 10.1109/JIOT.2024.3380850.
+[4]	A. Farhat, A. Eldosouky, M. Ibnkahla and A. Matrawy, "Interaction-aware Trust Management Scheme for IoT Systems With Machine Learning-Based Attack Detection," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3539646.
+[5]	Chahoud M, Mourad A, Otrok H, et al. Trust driven On-Demand scheme for client deployment in Federated Learning[J]. Information Processing & Management, 2025, 62(2): 103991.
+[6]	X. Xiang, J. Cao and W. Fan, "Secure Authentication and Trust Management Scheme for Edge AI-Enabled Cyber-Physical Systems," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 3, pp. 3237-3249, March 2025, 
+[7]	K. A. Awan et al., "TANF–Trustworthy Adaptive Neural Framework for Reliable and Scalable 6G Internet of Things," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3554707.
+### TMS-CAV-nonML
+[1]	P. Surapaneni, S. Bojjagani and M. K. Khan, "DYNAMIC-TRUST: Blockchain-Enhanced Trust for Secure Vehicle Transitions in Intelligent Transport Systems," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3545755. keywords:
+[2]	H. Mun et al., "Emerging Blockchain and Reputation Management in Federated Learning: Enhanced Security and Reliability for Internet of Vehicles (IoV)," in IEEE Transactions on Vehicular Technology, vol. 74, no. 2, pp. 1893-1908, Feb. 2025.
+
+[3]	.AI-driven dynamic trust management and blockchain-based security in industrial IoT
+[4]	A Hierarchical Blockchain-Enabled Secure Aggregation Algorithm for Federated Learning in IoV
+[5]	PPRU: A Privacy-Preserving Reputation Updating Scheme for Cloud-Assisted Vehicular Networks
+[6]	Rajkumar V, Kavitha E, Ranjith E, et al. APCO-blockchain integration for data trust and congestion control in vehicular networks[J]. Telecommunication Systems, 2025, 88(1): 15.
+[7]	Ren, Y., Li, Z., Yang, Y., Yu, H., Zhao, Y., & Wei, X. (2025). A dynamic trust evaluation scheme based on cross-domain trust inheritance for VANETs. Ad Hoc Networks, 175, 103872. https://doi.org/10.1016/j.adhoc.2025.103872
+[8]	G. Yang, A. He, G. Wu, J. Zhao, J. Zhang, and A. Liu, “HVVU: A Hash Value Verification joint UAVs scheme for trust data collection in smart cities,” Computer Networks, vol. 257, p. 111005, 2025.
+[9]	A. W. Burange, V. M. Deshmukh, Y. A. Thakare, and N. A. Shelke, "Safeguarding the Internet of Things: Elevating IoT routing security through trust management excellence," Computer Standards & Interfaces, vol. 91, p. 103873, 2025.
+[10]	Z. Xiang, J. Cheng, C. Liu, Q. Mao, G. Yuan and S. Gao, "Privacy-Preserving Autonomous Vehicle Group Formation in a Collusive Attack Scenario," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3559151.
+[11]	Y. Song, D. He, M. Dai, S. Chan, K. -K. R. Choo and M. Guizani, "Blockchain Assisted Trust Management for Data-Parallel Distributed Learning," in IEEE Transactions on Mobile Computing, vol. 24, no. 5, pp. 3826-3843, May 2025, doi: 10.1109/TMC.2024.3521443. 
+[12]	Y. Ren, Z. Li, Y. Yang, H. Yu, Y. Zhao, and X. Wei, "A dynamic trust evaluation scheme based on cross-domain trust inheritance for VANETs," _Ad Hoc Networks_, vol. 175, p. 103872, May 2025.
+[13]	R. Zhu, S. Hu, S. Helal, J. Song, J. Wang and Y. Chen, "BTDS:Blockchain-Enabled Trusted Vehicle Violation Detection by Self-Supervision," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3542372.
+[14]	J. Zuo et al., "A Decentralized Reputation Management Model for Enhanced IoV Networks With 5G Broadcast Services," in IEEE Transactions on Broadcasting, vol. 71, no. 1, pp. 63-73, March 2025,
+[15]	Zhihong Deng, Chunming Tang, Taotao Li, Debiao He, "Permissioned Blockchain-Based Trusted and Robust Consensus Optimization Orienting Intelligent Transportation Systems", IEEE Transactions on Intelligent Transportation Systems, vol.26, no.2, pp.2011-2026, 2025.
+[16]	Sahu B L, Chandrakar P. Blockchain-oriented secure communication and smart parking model for internet of electric vehicles in smart cities[J]. Peer-to-Peer Networking and Applications, 2025, 18(1): 1-17.
+[17]	C. Cheong, Y. Song, Y. Cao, Y. Zhang, H. Wang and Q. Ni, "DCACA: Dual-Model Consensus-Based Anti-Risk Confidence Allocation Trust Management in IoVs," in IEEE Internet of Things Journal, vol. 12, no. 2, pp. 1890-1906, 15 Jan.15, 2025.
+[18]	Khan I A, Keshk M, Hussain Y, et al. A context-aware zero trust-based hybrid approach to IoT-based self-driving vehicles security[J]. Ad Hoc Networks, 2025, 167: 103694.
+[19]	Kaur G, Kakkar D. A secure lightweight authentication model with interference aware routing and attack detection approach in VANET[J]. Cluster Computing, 2025, 28(2): 109.
+[20]	K. Hidawi, B. Carminati and E. Ferrari, "AeroTrust-5D: A Five-Dimensional Trust Management System for Optimizing UAV Cooperation and Path Planning in Urban Areas," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3583143. 
+[21]	Q. Wang, X. Li, Y. Qiu, X. Ding, W. Tang and Z. Qin, "Trust in IoV: UAV-Assisted Trust Management Scheme for Secure Communication of Connected Vehicles," in IEEE Internet of Things Journal, vol. 12, no. 18, pp. 37371-37387, 15 Sept.15, 2025, 
+[22]	Y. Xia et al., "TMSPR: Trusted Multi-Source Shortest Paths-Based Transmission Reliability of Wireless Sensor Network in Intelligent Tunnel," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 9, pp. 13037-13050, Sept. 2025, 
+[23]	L. Wei, Y. Cao, J. Cui, H. Zhong, I. Bolodurina and D. He, "Game Theory and Trust Management Driven Dynamic Proof-of-Work Blockchain Consensus Algorithm for Securing Internet of Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3592973.
+[24]	M. Zhang, C. Cheong, Y. Cao, L. Zhang, H. Lin and A. A. A. El-Latif, "A UAV-Assisted Traceable and Hierarchical Trust Management in VANET for Disaster Data Collection," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3593830.
+Memary E, Shen C, Guo H, et al. Trcoin: A blockchain-based robust trust management system for vanet[J]. Journal on Autonomous Transportation Systems, 2023.
+### TMS-CAV-ML
+[1]	Li H, Li X, Dunkin F, et al. Adaptive multi-granularity trust management scheme for UAV visual sensor security under adversarial attacks[J]. Computers & Security, 2025, 148: 104108.
+[2]	A. Nahar, D. Das, R. Yadav, K. Halimjon, and E. Reypnazarov, "Meta-enhanced hierarchical multi-agent reinforcement learning for dynamic spectrum management and trust-based routing in cognitive vehicular networks," Ad Hoc Networks, vol. 175, p. 103874, 2025.
+[3]	Liu X, Tan Z, Chen J, et al. An Adaptive Trust Threshold Based on Q-Learning for Detecting Intelligent Attacks in Vehicular Ad-Hoc Networks[J]. Ad Hoc Networks, 2025: 103865.
+[4]	Z. Lin, L. Xiao, H. Chen and Z. Lv, "Collaborative Perception Against Data Fabrication Attacks in Vehicular Networks," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3571013.
+[5]	F. Li, Y. Gong, H. Xu, Z. Lin, W. Huang and B. -J. Hu, "A Transformer-Based Trust Management System for the Internet of Vehicles Using Blockchain Technology," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3600255. F. Li, Y. Gong, H. Xu, Z. Lin, W. Huang and B. -J. Hu, "A Transformer-Based Trust Management System for the Internet of Vehicles Using Blockchain Technology," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3600255. 
+[6]	G. Muriithi et al., "Zero Trust Architecture for Electric Transportation Systems: A Systematic Survey and Deep Learning Framework for Replay Attack Detection," in IEEE Open Journal of Vehicular Technology, vol. 6, pp. 2171-2194, 2025, doi: 10.1109/OJVT.2025.3592041. 
+[7]	A. R. Singh, M. W. A. Ashraf, D. Ganesh, R. S. Rathore, C. T. E. R. Hewage and A. K. Bashir, "Quantum-Inspired Metaheuristic Algorithms for Trust-Based Privacy Agreements and Secure Access in the Internet of Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3591936. 
+[8]	Y. Yu, H. Yang, Y. Li and R. H. Deng, "Calling Out Trustless Users: A Trust Propagation Scheme for Decentralized Trust Management," in IEEE Transactions on Services Computing, doi: 10.1109/TSC.2025.3601226. 
+[9]	An Extensive Study on the State-of-the-Art Literature to Identify Major Approaches and Trust Issues of Trust-based Models in VANETs
+[10]	
